@@ -1,4 +1,4 @@
-![Header](https://github.com/Jakyp-05/ZhumagulovZhakyp/blob/main/assets/me.jpg?raw=true)
+![Header](https://github.com/Jakyp-05/Jakyp-05/blob/main/assets/me.jpg?raw=true)
 
 ## I'm front-end web developer
 
