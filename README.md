@@ -4,6 +4,7 @@
 
 ### [1. Online shop](https://github.com/Jakyp-05/online_shop.git)
 An e-commerce platform for selling products online.
+
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=087EA4) 
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=Vite&logoColor=646CFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
