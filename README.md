@@ -20,6 +20,8 @@ An e-commerce platform for selling products online.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=087EA4) 
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-090909?style=for-the-badge&logo=Redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4) 
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/jumagulovjakyp)
