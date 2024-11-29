@@ -3,6 +3,8 @@
 ## Pet projects 
 
 ### [1. Online shop](https://github.com/Jakyp-05/online_shop.git)
+### [2. Porter taxi](https://github.com/Jakyp-05/taxi-landing-page.git)
+### [3. Kross store](https://github.com/Jakyp-05/kross-store.git)
 
 
 ## Languages and Tools
