@@ -15,6 +15,7 @@
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios&logoColor=5A29E4)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4) 
+![Material UI](https://img.shields.io/badge/Material%20UI-blue?style=flat)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-090909?style=for-the-badge&logo=React-Hook-Form&logoColor=EC5990)
 ![Yup](https://img.shields.io/badge/-Yup-090909?style=for-the-badge&logo=Yup&logoColor=4CAF50)
 
