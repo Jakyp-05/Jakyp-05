@@ -8,6 +8,10 @@
 
 ### [3. Kross store](https://github.com/Jakyp-05/kross-store.git)
 
+### [4. Tender kg](https://github.com/Jakyp-05/tender-kg.git)
+
+### [5. KIA website](https://github.com/Jakyp-05/diplop-project.git)
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
